@@ -1,2 +1,2 @@
-### OOP4FUN 1
+### OOP4FUN
 Hello world!
